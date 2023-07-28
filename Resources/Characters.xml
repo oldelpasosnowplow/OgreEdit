@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<characters>
+  <character>
+    <hexValue>01</hexValue>
+    <name>Fighter</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>02</hexValue>
+    <name>Knight</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>03</hexValue>
+    <name>Paladin</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>04</hexValue>
+    <name>Wild Man</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>05</hexValue>
+    <name>Evil One</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>06</hexValue>
+    <name>Samurai</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>07</hexValue>
+    <name>Samurai Master</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>08</hexValue>
+    <name>Ninja</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>09</hexValue>
+    <name>Ninja Master</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>0A</hexValue>
+    <name>Amazon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>0B</hexValue>
+    <name>Valkyrie</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>0C</hexValue>
+    <name>Muse</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>0D</hexValue>
+    <name>Beast Man</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>0E</hexValue>
+    <name>Beast Master</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>0F</hexValue>
+    <name>Dragoneer</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>10</hexValue>
+    <name>Dragon Master</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>11</hexValue>
+    <name>Doll Mage</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>12</hexValue>
+    <name>Doll Master</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>13</hexValue>
+    <name>Wizard</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>14</hexValue>
+    <name>Mage</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>15</hexValue>
+    <name>Sorcerer</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>16</hexValue>
+    <name>Lich</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>17</hexValue>
+    <name>Witch</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>18</hexValue>
+    <name>Cleric</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>19</hexValue>
+    <name>Shaman </name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>1A</hexValue>
+    <name>Monk</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>1B</hexValue>
+    <name>Mermaid</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>1C</hexValue>
+    <name>Nixie</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>1D</hexValue>
+    <name>WereWolf</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>1E</hexValue>
+    <name>Tigerman</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>1F</hexValue>
+    <name>Beast Man</name>
+    <description>Tigerman/Werewolf day form</description>
+  </character>
+  <character>
+    <hexValue>20</hexValue>
+    <name>Vampire Awake</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>21</hexValue>
+    <name>Vampire Asleep</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>22</hexValue>
+    <name>Princess</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>23</hexValue>
+    <name>Pumpkin</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>24</hexValue>
+    <name>Holloween</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>25</hexValue>
+    <name>Golem </name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>26</hexValue>
+    <name>Rock Golem</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>27</hexValue>
+    <name>Iron Golem</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>28</hexValue>
+    <name>Giant </name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>29</hexValue>
+    <name>Ice Giant</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>2A</hexValue>
+    <name>Titan</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>2B</hexValue>
+    <name>Fire Giant</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>2C</hexValue>
+    <name>Hell Hound</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>2D</hexValue>
+    <name>Cereberus</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>2E</hexValue>
+    <name>Octopus</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>2F</hexValue>
+    <name>Kraken</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>30</hexValue>
+    <name>Dragon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>31</hexValue>
+    <name>Red Dragon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>32</hexValue>
+    <name>Silver Dragon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>33</hexValue>
+    <name>Black Dragon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>34</hexValue>
+    <name>Red Dragon II</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>35</hexValue>
+    <name>Salamander</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>36</hexValue>
+    <name>Gold Dragon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>37</hexValue>
+    <name>Platinum</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>38</hexValue>
+    <name>Tiamat</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>39</hexValue>
+    <name>Zombie Dragon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>3A</hexValue>
+    <name>Skeleton</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>3B</hexValue>
+    <name>Wraith</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>3C</hexValue>
+    <name>Ghost</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>3D</hexValue>
+    <name>Phantom</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>3E</hexValue>
+    <name>Hawk Man</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>3F</hexValue>
+    <name>Eagle Man</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>40</hexValue>
+    <name>Raven Man</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>41</hexValue>
+    <name>Angel </name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>42</hexValue>
+    <name>Cherubim</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>43</hexValue>
+    <name>Seraphim</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>44</hexValue>
+    <name>Imp</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>45</hexValue>
+    <name>Demon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>46</hexValue>
+    <name>Devil</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>47</hexValue>
+    <name>Faerie</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>48</hexValue>
+    <name>Pixie</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>49</hexValue>
+    <name>Sylph</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>4A</hexValue>
+    <name>Gryphon</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>4B</hexValue>
+    <name>Cockatrice</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>4C</hexValue>
+    <name>Wyrm</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>4D</hexValue>
+    <name>Wyvern</name>
+    <description></description>
+  </character>
+  <character>
+    <hexValue>4E</hexValue>
+    <name>Male or Female Lord</name>
+    <description>Slice/Iainuki</description>
+  </character>
+  <character>
+    <hexValue>4F</hexValue>
+    <name>Male or Female Lord</name>
+    <description>Poison/Phantom</description>
+  </character>
+  <character>
+    <hexValue>50</hexValue>
+    <name>Male or Female Lord</name>
+    <description>Banish/Ice Cloud</description>
+  </character>
+  <character>
+    <hexValue>51</hexValue>
+    <name>Male or Female Lord</name>
+    <description>Slice/Thunder</description>
+  </character>
+  <character>
+    <hexValue>52</hexValue>
+    <name>Wise Man</name>
+    <description> (Random Magic attack X 6) game freezes in front</description>
+  </character>
+  <character>
+    <hexValue>53</hexValue>
+    <name>Diablo Head 1</name>
+    <description>(crash/Fire attacks X 2) game freezes</description>
+  </character>
+  <character>
+    <hexValue>54</hexValue>
+    <name>Diablo Head 2</name>
+    <description>(crash/Ice attacks X 2) game freezes</description>
+  </character>
+  <character>
+    <hexValue>55</hexValue>
+    <name>Diablo Head 3</name>
+    <description>(crash/fire attacks X 2) game freezes</description>
+  </character>
+  <character>
+    <hexValue>56</hexValue>
+    <name>Black Queen</name>
+    <description>(Ice/Multiple Strong Magic X 5) game freezes in front</description>
+  </character>
+  <character>
+    <hexValue>57</hexValue>
+    <name>Highlander</name>
+    <description>(Multiple "magic" X 5) game freezes totally</description>
+  </character>
+  <character>
+    <hexValue>58</hexValue>
+    <name>Prince</name>
+    <description>(Uses Enhanced Chop Techniques X 3 ) game freezes in front</description>
+  </character>
+  <character>
+    <hexValue>59</hexValue>
+    <name>Prince</name>
+    <description>(Purple Cloak) game freezes in front</description>
+  </character>
+  <character>
+    <hexValue>5A</hexValue>
+    <name>Prince</name>
+    <description>(Chop X 3) okay to use front</description>
+  </character>
+  <character>
+    <hexValue>5B</hexValue>
+    <name>Gemini</name>
+    <description>(Nova/Kick Moves X 3)</description>
+  </character>
+  <character>
+    <hexValue>5D</hexValue>
+    <name>Dandy</name>
+    <description>(Multiple Magic X 3) freezes game at back</description>
+  </character>
+  <character>
+    <hexValue>5E</hexValue>
+    <name>Dandy</name>
+    <description>(Multiple Magic X 3) freezes game at back</description>
+  </character>
+  <character>
+    <hexValue>5F</hexValue>
+    <name>General</name>
+    <description>Enemy</description>
+  </character>
+  <character>
+    <hexValue>60</hexValue>
+    <name>Jumping General</name>
+    <description>(Enemy) freeze game at back</description>
+  </character>
+  <character>
+    <hexValue>61</hexValue>
+    <name>Running Jumping General</name>
+    <description>(Enemy) freeze game at back</description>
+  </character>
+  <character>
+    <hexValue>62</hexValue>
+    <name>Red Running Jumping General</name>
+    <description>(Enemy) freeze game at back</description>
+  </character>
+  <character>
+    <hexValue>63</hexValue>
+    <name>General</name>
+    <description>Slice/Iainaku</description>
+  </character>
+  <character>
+    <hexValue>64</hexValue>
+    <name>General</name>
+    <description>Slice/Blade</description>
+  </character>
+  <character>
+    <hexValue>65</hexValue>
+    <name>Dragoon</name>
+    <description>Green</description>
+  </character>
+</characters>

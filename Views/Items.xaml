@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="OgreEdit.Views.Items"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True" Height="550" Width="780">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition  Height="40"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.ColumnSpan="3" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <Button Command="{Binding PreviousCommand}" Width="50" HorizontalAlignment="Left" Margin="0,0,10,0">
+                <Path Fill="Gold" Data="M -6 10 L 8 16 L 8 4 Z"/>
+            </Button>
+            <Label Content="{Binding CurrentPage}" />
+            <Button Command="{Binding NextCommand}" Width="50" HorizontalAlignment="Right" Margin="10,0,0,0">
+                <Path Fill="Gold" Data="M 6 16 L 18 10 L 6 4 Z"/>
+            </Button>
+        </StackPanel>
+
+
+        <Label Content="Item" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <Label Content="Description" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <Label Content="Quantity" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+
+        <ComboBox SelectedItem="{Binding SelectedValue0}" Text="{Binding ItemName[0]}" DisplayMemberPath="ItemName" ItemsSource="{Binding ItemList}" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="200"/>
+        <TextBlock Text="{Binding ItemDescription[0]}" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" FontSize="14"/>
+        <TextBox Text="{Binding ItemQuantity[0]}" Grid.Column="2" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="65"/>
+
+        <ComboBox SelectedItem="{Binding SelectedValue1}" Text="{Binding ItemName[1]}" DisplayMemberPath="ItemName" ItemsSource="{Binding ItemList}" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="200"/>
+        <TextBlock Text="{Binding ItemDescription[1]}" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <TextBox Text="{Binding ItemQuantity[1]}" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="65"/>
+
+        <ComboBox SelectedItem="{Binding SelectedValue2}" Text="{Binding ItemName[2]}" DisplayMemberPath="ItemName" ItemsSource="{Binding ItemList}" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="200"/>
+        <TextBlock Text="{Binding ItemDescription[2]}" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <TextBox Text="{Binding ItemQuantity[2]}" Grid.Column="2" Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="65"/>
+
+        <ComboBox SelectedItem="{Binding SelectedValue3}" Text="{Binding ItemName[3]}" DisplayMemberPath="ItemName" ItemsSource="{Binding ItemList}" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="200"/>
+        <TextBlock Text="{Binding ItemDescription[3]}" Grid.Column="1" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <TextBox Text="{Binding ItemQuantity[3]}" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="65"/>
+
+        <ComboBox SelectedItem="{Binding SelectedValue4}" Text="{Binding ItemName[4]}" DisplayMemberPath="ItemName" ItemsSource="{Binding ItemList}" Grid.Column="0" Grid.Row="6" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="200"/>
+        <TextBlock Text="{Binding ItemDescription[4]}" Grid.Column="1" Grid.Row="6" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <TextBox Text="{Binding ItemQuantity[4]}" Grid.Column="2" Grid.Row="6" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="65"/>
+
+        <ComboBox SelectedItem="{Binding SelectedValue5}" Text="{Binding ItemName[5]}" DisplayMemberPath="ItemName" ItemsSource="{Binding ItemList}" Grid.Column="0" Grid.Row="7" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="200"/>
+        <TextBlock Text="{Binding ItemDescription[5]}" Grid.Column="1" Grid.Row="7" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <TextBox Text="{Binding ItemQuantity[5]}" Grid.Column="2" Grid.Row="7" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="65"/>
+
+        <ComboBox SelectedItem="{Binding SelectedValue6}" Text="{Binding ItemName[6]}" DisplayMemberPath="ItemName" ItemsSource="{Binding ItemList}" Grid.Column="0" Grid.Row="8" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="200"/>
+        <TextBlock Text="{Binding ItemDescription[6]}" Grid.Column="1" Grid.Row="8" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3"/>
+        <TextBox Text="{Binding ItemQuantity[6]}" Grid.Column="2" Grid.Row="8" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3" Width="65"/>
+
+        <Button Content="Save" Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="3" HorizontalAlignment="Center" Command="{Binding SaveCommand}" Width="65" />
+
+    </Grid>
+</UserControl>

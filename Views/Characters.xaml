@@ -1,0 +1,83 @@
+﻿<UserControl x:Class="OgreEdit.Views.Characters"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True" Height="540" Width="780">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="55"/>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.ColumnSpan="5" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <Button Command="{Binding PreviousCommand}" Width="50" HorizontalAlignment="Left" Margin="0,0,10,0">
+                <Path Fill="Gold" Data="M -6 10 L 8 16 L 8 4 Z"/>
+            </Button>
+            <Label Content="{Binding CurrentPage}" />
+            <Button Command="{Binding NextCommand}" Width="50" HorizontalAlignment="Right" Margin="10,0,0,0">
+                <Path Fill="Gold" Data="M 6 16 L 18 10 L 6 4 Z"/>
+            </Button>
+        </StackPanel>
+
+        <Border Grid.Row="1" Grid.RowSpan="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="Goldenrod" BorderThickness="1">
+            <Rectangle Grid.Row="1" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Height="100" Width="100">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding CharImage}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+        </Border>
+
+        <Label Grid.Row="1" Grid.Column="1" Content="Character Name:" Margin="25,0,0,0" FontSize="20" VerticalAlignment="Center"/>
+        <Label Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2" Content="{Binding CharName}" FontSize="28" VerticalAlignment="Center"/>
+        
+        <Label Grid.Row="2" Grid.Column="1" Content="Character Type:" Margin="25,0,0,0" FontSize="20" VerticalAlignment="Center"/>
+        <ComboBox Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" SelectedItem="{Binding SelectedChar}" Text="{Binding CharType}" DisplayMemberPath="CharType" ItemsSource="{Binding CharList}" Height="40" Margin="2"/>
+        
+        <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Content="Character Description:" FontSize="22" VerticalAlignment="Center"/>
+        <Label Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3" Content="{Binding CharDescription}" FontSize="28" VerticalAlignment="Center" Margin="45,0,0,0"/>
+
+        <Label Grid.Row="4" Grid.Column="0" Content="Level:" FontSize="28"/>
+        <Label Grid.Row="4" Grid.Column="1" Content="{Binding CharLevel}" FontSize="28"/>
+
+        <Label Grid.Row="4" Grid.Column="2" Content="HP:" FontSize="28"/>
+        <Label Grid.Row="4" Grid.Column="3" Content="{Binding CharHP}" FontSize="28"/>
+
+        <Label Grid.Row="5" Grid.Column="0" Content="Str:" FontSize="28" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="5" Grid.Column="1" Text="{Binding CharStr}" Width="75" Height="45" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="5" Grid.Column="2" Content="Cha:" FontSize="28" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="5" Grid.Column="3" Text="{Binding CharCha}" Width="75" Height="45" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="6" Grid.Column="0" Content="Agi:" FontSize="28" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding CharAgi}" Width="75" Height="45" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="6" Grid.Column="2" Content="Ali:" FontSize="28" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="6" Grid.Column="3" Text="{Binding CharAli}" Width="75" Height="45" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="7" Grid.Column="0" Content="Int:" FontSize="28" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="7" Grid.Column="1" Text="{Binding CharInt}" Width="75" Height="45" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="7" Grid.Column="2" Content="Luk:" FontSize="28" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="7" Grid.Column="3" Text="{Binding CharLuk}" Width="75" Height="45" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="8" Grid.Column="0" Content="Equiped Item:" FontSize="28" VerticalAlignment="Center"/>
+        <Label Grid.Row="8" Grid.Column="1" Content="{Binding CharItem}" FontSize="28" VerticalAlignment="Center"/>
+
+        <Button Content="Save" Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="5" HorizontalAlignment="Center" Command="{Binding SaveCommand}" Width="65" />
+    </Grid>
+</UserControl>

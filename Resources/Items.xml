@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+	<item>
+		<hexValue>01</hexValue>
+		<name>Sonic Blade</name>
+		<description>STR+13</description>
+	</item>
+	<item>
+		<hexValue>02</hexValue>
+		<name>Durandal</name>
+		<description>STR+12</description>
+	</item>
+	<item>
+		<hexValue>03</hexValue>
+		<name>Bizen Sword</name>
+		<description>STR+11</description>
+	</item>
+	<item>
+		<hexValue>04</hexValue>
+		<name>Zepyulos</name>
+		<description>STR+15,INT+3</description>
+	</item>
+	<item>
+		<hexValue>05</hexValue>
+		<name>Fafhniel</name>
+		<description>STR+20,INT+4</description>
+	</item>
+	<item>
+		<hexValue>06</hexValue>
+		<name>Zanzibar</name>
+		<description>STR+18</description>
+	</item>
+	<item>
+		<hexValue>07</hexValue>
+		<name>Brunhild</name>
+		<description>STR+20</description>
+	</item>
+	<item>
+		<hexValue>08</hexValue>
+		<name>Black Katana</name>
+		<description>STR+3</description>
+	</item>
+	<item>
+		<hexValue>09</hexValue>
+		<name>Sword of Slicing</name>
+		<description>STR+4</description>
+	</item>
+	<item>
+		<hexValue>0A</hexValue>
+		<name>Mikado Sword</name>
+		<description>STR+8</description>
+	</item>
+	<item>
+		<hexValue>0B</hexValue>
+		<name>Sword of Heroes</name>
+		<description>STR+11</description>
+	</item>
+	<item>
+		<hexValue>0C</hexValue>
+		<name>Sword of Evil</name>
+		<description>STR+15</description>
+	</item>
+	<item>
+		<hexValue>0D</hexValue>
+		<name>Ogre Blade</name>
+		<description>STR+20</description>
+	</item>
+	<item>
+		<hexValue>0E</hexValue>
+		<name>Flame Sword</name>
+		<description>Str+6</description>
+	</item>
+	<item>
+		<hexValue>0F</hexValue>
+		<name>Musashi B. Heroblade</name>
+		<description>STR+12</description>
+	</item>
+	<item>
+		<hexValue>10</hexValue>
+		<name>Eskendale Blade</name>
+		<description>STR+15,INT+3</description>
+	</item>
+	<item>
+		<hexValue>11</hexValue>
+		<name>Ice Scimitar</name>
+		<description>STR+3</description>
+	</item>
+	<item>
+		<hexValue>12</hexValue>
+		<name>Ice Blade</name>
+		<description>Str+7</description>
+	</item>
+	<item>
+		<hexValue>13</hexValue>
+		<name>Peridat Sword</name>
+		<description>Str+11</description>
+	</item>
+	<item>
+		<hexValue>14</hexValue>
+		<name>Euros</name>
+		<description>STR+15,INT+3</description>
+	</item>
+	<item>
+		<hexValue>15</hexValue>
+		<name>Malachite Sword</name>
+		<description>STR+18,INT-4</description>
+	</item>
+	<item>
+		<hexValue>16</hexValue>
+		<name>Dwarven Sword</name>
+		<description>STR+7</description>
+	</item>
+	<item>
+		<hexValue>17</hexValue>
+		<name>Notos</name>
+		<description>STR+15,INT+3</description>
+	</item>
+	<item>
+		<hexValue>18</hexValue>
+		<name>Sigmund</name>
+		<description>Str+19</description>
+	</item>
+	<item>
+		<hexValue>19</hexValue>
+		<name>Broken Sword</name>
+		<description>STR+4</description>
+	</item>
+	<item>
+		<hexValue>1A</hexValue>
+		<name>Death Claws</name>
+		<description>STR+8</description>
+	</item>
+	<item>
+		<hexValue>1B</hexValue>
+		<name>Evil Blade</name>
+		<description>STR+8,INT+3</description>
+	</item>
+	<item>
+		<hexValue>1C</hexValue>
+		<name>Relic Sword</name>
+		<description>STR+24,INT-16</description>
+	</item>
+	<item>
+		<hexValue>1D</hexValue>
+		<name>Dragon's Claw</name>
+		<description>STR+5</description>
+	</item>
+	<item>
+		<hexValue>1E</hexValue>
+		<name>Pristine Sword</name>
+		<description>STR+8,INT+10</description>
+	</item>
+	<item>
+		<hexValue>1F</hexValue>
+		<name>Kusanagi Blade</name>
+		<description>STR+15</description>
+	</item>
+	<item>
+		<hexValue>20</hexValue>
+		<name>Karanborg</name>
+		<description>STR+17</description>
+	</item>
+	<item>
+		<hexValue>21</hexValue>
+		<name>Dragon Spear</name>
+		<description>STR+7</description>
+	</item>
+	<item>
+		<hexValue>22</hexValue>
+		<name>Benkay's Glaive</name>
+		<description>STR+12</description>
+	</item>
+	<item>
+		<hexValue>23</hexValue>
+		<name>Ozrich's Spear</name>
+		<description>STR+14,INT+17</description>
+	</item>
+	<item>
+		<hexValue>24</hexValue>
+		<name>Thunder Spear</name>
+		<description>STR+9</description>
+	</item>
+	<item>
+		<hexValue>25</hexValue>
+		<name>Boleas</name>
+		<description>STR+17</description>
+	</item>
+	<item>
+		<hexValue>26</hexValue>
+		<name>Ice Axe</name>
+		<description>STR+11</description>
+	</item>
+	<item>
+		<hexValue>27</hexValue>
+		<name>Black Axe</name>
+		<description>STR+16,INT-8</description>
+	</item>
+	<item>
+		<hexValue>28</hexValue>
+		<name>Rune Axe</name>
+		<description>STR+15</description>
+	</item>
+	<item>
+		<hexValue>29</hexValue>
+		<name>Battle Dagger</name>
+		<description>STR+3</description>
+	</item>
+	<item>
+		<hexValue>2A</hexValue>
+		<name>Fire Staff</name>
+		<description>INT+3</description>
+	</item>
+	<item>
+		<hexValue>2B</hexValue>
+		<name>Flame Flail</name>
+		<description>STR+4</description>
+	</item>
+	<item>
+		<hexValue>2C</hexValue>
+		<name>Thunder Whip</name>
+		<description>STR+6</description>
+	</item>
+	<item>
+		<hexValue>2D</hexValue>
+		<name>Demon Hammer</name>
+		<description>STR+12,INT-4</description>
+	</item>
+	<item>
+		<hexValue>2E</hexValue>
+		<name>Kukai's Rod</name>
+		<description>STR+8</description>
+	</item>
+	<item>
+		<hexValue>2F</hexValue>
+		<name>Mystic Mace</name>
+		<description>STR+2,INT+7</description>
+	</item>
+	<item>
+		<hexValue>30</hexValue>
+		<name>Liebel's Rod</name>
+		<description>INT+14</description>
+	</item>
+	<item>
+		<hexValue>31</hexValue>
+		<name>Lightning Bow</name>
+		<description>STR+7</description>
+	</item>
+	<item>
+		<hexValue>32</hexValue>
+		<name>Black Bow</name>
+		<description>STR+3,INT+2</description>
+	</item>
+	<item>
+		<hexValue>33</hexValue>
+		<name>Earth Charm</name>
+		<description>FIRE,ICE,ELEC+3</description>
+	</item>
+	<item>
+		<hexValue>34</hexValue>
+		<name>Elder Sign</name>
+		<description>STR+11,INT+5,BLACK+16,WHITE+14</description>
+	</item>
+	<item>
+		<hexValue>35</hexValue>
+		<name>Flame Charm</name>
+		<description>FIRE+5</description>
+	</item>
+	<item>
+		<hexValue>36</hexValue>
+		<name>Hydra's Fang</name>
+		<description>STR+4,PHYS+6,FIRE+8</description>
+	</item>
+	<item>
+		<hexValue>37</hexValue>
+		<name>Ice Charm</name>
+		<description>ICE+5</description>
+	</item>
+	<item>
+		<hexValue>38</hexValue>
+		<name>Byak's Fang</name>
+		<description>INT+7,ICE+12</description>
+	</item>
+	<item>
+		<hexValue>39</hexValue>
+		<name>Snow Orb</name>
+		<description>INT+11,FIRE-8,ICE+14</description>
+	</item>
+	<item>
+		<hexValue>3A</hexValue>
+		<name>Thunder Charm</name>
+		<description>ELEC+5</description>
+	</item>
+	<item>
+		<hexValue>3B</hexValue>
+		<name>Lightning Orb</name>
+		<description>STR+6,ELEC+17</description>
+	</item>
+	<item>
+		<hexValue>3C</hexValue>
+		<name>Black Charm</name>
+		<description>STR+8,INT-4,BLACK+13,WHITE-16</description>
+	</item>
+	<item>
+		<hexValue>3D</hexValue>
+		<name>White Charm</name>
+		<description>WHITE+5</description>
+	</item>
+	<item>
+		<hexValue>3E</hexValue>
+		<name>Angel's Wing</name>
+		<description>INT+16,PHYS+7,WHITE+23</description>
+	</item>
+	<item>
+		<hexValue>3F</hexValue>
+		<name>Ring of Power</name>
+		<description>STR+18,INT-7</description>
+	</item>
+	<item>
+		<hexValue>40</hexValue>
+		<name>Ring of Magic</name>
+		<description>STR-12,INT-16</description>
+	</item>
+	<item>
+		<hexValue>41</hexValue>
+		<name>Dragon Ring</name>
+		<description>STR+6,FIRE+14</description>
+	</item>
+	<item>
+		<hexValue>42</hexValue>
+		<name>Thunder Ring</name>
+		<description>STR+3,ELEC+15,WHITE+6</description>
+	</item>
+	<item>
+		<hexValue>43</hexValue>
+		<name>Engraved Ring</name>
+		<description>INT+11,BLACK+19,WHITE-11</description>
+	</item>
+	<item>
+		<hexValue>44</hexValue>
+		<name>Demon Ring</name>
+		<description>STR+21,BLACK+17,WHITE-15</description>
+	</item>
+	<item>
+		<hexValue>45</hexValue>
+		<name>Ring of Protection</name>
+		<description>INT+5,PHYS+12,WHITE+14</description>
+	</item>
+	<item>
+		<hexValue>46</hexValue>
+		<name>Battle Bugle</name>
+		<description>STR+2,PHYS+2</description>
+	</item>
+	<item>
+		<hexValue>47</hexValue>
+		<name>Ninja Garb</name>
+		<description>PHYS+3,BLACK+2</description>
+	</item>
+	<item>
+		<hexValue>48</hexValue>
+		<name>Samurai Armour</name>
+		<description>PHYS+5</description>
+	</item>
+	<item>
+		<hexValue>49</hexValue>
+		<name>Mail of Neil</name>
+		<description>PHYS+7</description>
+	</item>
+	<item>
+		<hexValue>4A</hexValue>
+		<name>Golden Mail</name>
+		<description>PHYS+12</description>
+	</item>
+	<item>
+		<hexValue>4B</hexValue>
+		<name>Mail of Earth</name>
+		<description>PHYS+16,WHITE+7</description>
+	</item>
+	<item>
+		<hexValue>4C</hexValue>
+		<name>Houlou's Robe</name>
+		<description>PHYS+7,FIRE+11</description>
+	</item>
+	<item>
+		<hexValue>4D</hexValue>
+		<name>Snow Cape</name>
+		<description>PHYS+11,COLD+16</description>
+	</item>
+	<item>
+		<hexValue>4E</hexValue>
+		<name>Black Armour</name>
+		<description>PHYS+8,BLACK+4,WHITE-3</description>
+	</item>
+	<item>
+		<hexValue>4F</hexValue>
+		<name>Death's Cape</name>
+		<description>PHYS+13,BLACK+17,WHITE-11</description>
+	</item>
+	<item>
+		<hexValue>50</hexValue>
+		<name>White Garb</name>
+		<description>PHYS+4,WHITE+3</description>
+	</item>
+	<item>
+		<hexValue>51</hexValue>
+		<name>White Cape</name>
+		<description>PHYS+5,WHITE+13</description>
+	</item>
+	<item>
+		<hexValue>52</hexValue>
+		<name>Pirate's Helm</name>
+		<description>PHYS+2</description>
+	</item>
+	<item>
+		<hexValue>53</hexValue>
+		<name>Silver Helmet</name>
+		<description>PHYS+3,WHITE+1</description>
+	</item>
+	<item>
+		<hexValue>54</hexValue>
+		<name>Silver Tiara</name>
+		<description>PHYS+3,+8</description>
+	</item>
+	<item>
+		<hexValue>55</hexValue>
+		<name>Mystic Veil</name>
+		<description>FIRE+7,ICE+11,WHITE+5</description>
+	</item>
+	<item>
+		<hexValue>56</hexValue>
+		<name>King's Crown</name>
+		<description>PHYS+17</description>
+	</item>
+	<item>
+		<hexValue>57</hexValue>
+		<name>Burning Band</name>
+		<description>FIRE+6,ICE-4</description>
+	</item>
+	<item>
+		<hexValue>58</hexValue>
+		<name>Ice Bandana</name>
+		<description>FIRE-9,ICE+7</description>
+	</item>
+	<item>
+		<hexValue>59</hexValue>
+		<name>Thunder Helm</name>
+		<description>PHYS+5,ELEC+8</description>
+	</item>
+	<item>
+		<hexValue>5A</hexValue>
+		<name>Demon Mask</name>
+		<description>PHYS+4,BLACK+8,WHITE-6</description>
+	</item>
+	<item>
+		<hexValue>5B</hexValue>
+		<name>Royal Crown</name>
+		<description>PHYS+7,WHITE+13</description>
+	</item>
+	<item>
+		<hexValue>5C</hexValue>
+		<name>Iron Gloves</name>
+		<description>PHYS+2</description>
+	</item>
+	<item>
+		<hexValue>5D</hexValue>
+		<name>Thunder Club</name>
+		<description>PHYS+3,ELEC+4</description>
+	</item>
+	<item>
+		<hexValue>5E</hexValue>
+		<name>Spiked Shield</name>
+		<description>PHYS+6</description>
+	</item>
+	<item>
+		<hexValue>5F</hexValue>
+		<name>Power Shield</name>
+		<description>PHYS+19,FIRE-8,ICE-5</description>
+	</item>
+	<item>
+		<hexValue>60</hexValue>
+		<name>Honour Shield</name>
+		<description>PHYS+14,WHITE+7</description>
+	</item>
+	<item>
+		<hexValue>61</hexValue>
+		<name>Ogre Shield</name>
+		<description>PHYS+18,BLACK+21</description>
+	</item>
+	<item>
+		<hexValue>62</hexValue>
+		<name>Fire Shield</name>
+		<description>PHYS+9,FIRE+12</description>
+	</item>
+	<item>
+		<hexValue>63</hexValue>
+		<name>Cold Shield</name>
+		<description>PHYS+8,ICE+15</description>
+	</item>
+	<item>
+		<hexValue>64</hexValue>
+		<name>Nue's Shield</name>
+		<description>PHYS+8,ELEC+15</description>
+	</item>
+	<item>
+		<hexValue>65</hexValue>
+		<name>Ginger Cake</name>
+		<description>Baked by a bored but talented Monk</description>
+	</item>
+	<item>
+		<hexValue>66</hexValue>
+		<name>Black Lotus</name>
+		<description>Very potent in the making of potions</description>
+	</item>
+	<item>
+		<hexValue>67</hexValue>
+		<name>Olden Orb</name>
+		<description>One of the jewels of Fellana</description>
+	</item>
+	<item>
+		<hexValue>68</hexValue>
+		<name>Book of Good</name>
+		<description>The rules of behaviour for true warriors</description>
+	</item>
+	<item>
+		<hexValue>69</hexValue>
+		<name>Flashy Cape</name>
+		<description>A cape made by the gentleman Lexar</description>
+	</item>
+	<item>
+		<hexValue>6A</hexValue>
+		<name>Gnomish Nugget</name>
+		<description>A lump of gold containing the spirit of the Earth</description>
+	</item>
+	<item>
+		<hexValue>6B</hexValue>
+		<name>Beautiful Statue</name>
+		<description>A statue of an unknown magician</description>
+	</item>
+	<item>
+		<hexValue>6C</hexValue>
+		<name>Platinum Medal</name>
+		<description>A symbol of rank</description>
+	</item>
+	<item>
+		<hexValue>6D</hexValue>
+		<name>Mulmy's Map</name>
+		<description>A tresure map made by the Pirate Mulmy</description>
+	</item>
+	<item>
+		<hexValue>6E</hexValue>
+		<name>The Saga</name>
+		<description>A saga of ancient kings and kingdoms</description>
+	</item>
+	<item>
+		<hexValue>6F</hexValue>
+		<name>Sentoul Demon</name>
+		<description>A statue of the demon Sentoul</description>
+	</item>
+	<item>
+		<hexValue>70</hexValue>
+		<name>Battle Carving</name>
+		<description>An engraving of a battle of the gods</description>
+	</item>
+	<item>
+		<hexValue>71</hexValue>
+		<name>Font of Desire</name>
+		<description>A magic bowl</description>
+	</item>
+	<item>
+		<hexValue>72</hexValue>
+		<name>Wing of Victory</name>
+		<description>The seal the Kingdom of Zenobia</description>
+	</item>
+	<item>
+		<hexValue>73</hexValue>
+		<name>Forest Pendant</name>
+		<description>Containins a forest spirit</description>
+	</item>
+	<item>
+		<hexValue>74</hexValue>
+		<name>Mercury</name>
+		<description>An emblem of warriors who died for honour</description>
+	</item>
+	<item>
+		<hexValue>75</hexValue>
+		<name>Lemming Herbs</name>
+		<description>A magic herb</description>
+	</item>
+	<item>
+		<hexValue>76</hexValue>
+		<name>Zebra Fur</name>
+		<description>A very unique fur coat</description>
+	</item>
+	<item>
+		<hexValue>77</hexValue>
+		<name>Moon Rose</name>
+		<description>A white gem</description>
+	</item>
+	<item>
+		<hexValue>78</hexValue>
+		<name>Statue of Woe</name>
+		<description>A secret statue kept by a group of cultists</description>
+	</item>
+	<item>
+		<hexValue>79</hexValue>
+		<name>Song of Sodoh</name>
+		<description>A forbidden poem dedicated to Diablo</description>
+	</item>
+	<item>
+		<hexValue>7A</hexValue>
+		<name>Golden Goblet</name>
+		<description>An ornately designed goblet</description>
+	</item>
+	<item>
+		<hexValue>7B</hexValue>
+		<name>Gold Medal</name>
+		<description>A medal worn by an ancient officer</description>
+	</item>
+	<item>
+		<hexValue>7C</hexValue>
+		<name>Amatsu Statue</name>
+		<description>A mystic statue</description>
+	</item>
+	<item>
+		<hexValue>7D</hexValue>
+		<name>Dragon's Bones</name>
+		<description>Used to make magic items</description>
+	</item>
+	<item>
+		<hexValue>7E</hexValue>
+		<name>Golden Bough</name>
+		<description>Grows only on an island in the Eastern Sea</description>
+	</item>
+	<item>
+		<hexValue>7F</hexValue>
+		<name>Evil Censer</name>
+		<description>A beautiful censer used in evil ceremonies</description>
+	</item>
+	<item>
+		<hexValue>80</hexValue>
+		<name>Rainbow Shell</name>
+		<description>A peice of the shell from the Rainbow Turtle</description>
+	</item>
+	<item>
+		<hexValue>81</hexValue>
+		<name>Star Fragment</name>
+		<description>A peice of a shooting star</description>
+	</item>
+	<item>
+		<hexValue>82</hexValue>
+		<name>Black Orc's Fur</name>
+		<description>A fur of an animal which lives in the Underworld</description>
+	</item>
+	<item>
+		<hexValue>83</hexValue>
+		<name>Beast Coin</name>
+		<description>The oldest known coin</description>
+	</item>
+	<item>
+		<hexValue>84</hexValue>
+		<name>Empress Cameo</name>
+		<description>A fashion accessory popular among nobles</description>
+	</item>
+	<item>
+		<hexValue>85</hexValue>
+		<name>FireSeal</name>
+		<description>What's this name written here? FIRESEAL?</description>
+	</item>
+	<item>
+		<hexValue>86</hexValue>
+		<name>Key of Destiny</name>
+		<description>A symbol of the successor to the King of Zenobia</description>
+	</item>
+	<item>
+		<hexValue>87</hexValue>
+		<name>Gem of the Moors</name>
+		<description>A rare gem</description>
+	</item>
+	<item>
+		<hexValue>88</hexValue>
+		<name>Black Pearl</name>
+		<description>A rare gem accessory</description>
+	</item>
+	<item>
+		<hexValue>89</hexValue>
+		<name>Golden Beehive</name>
+		<description>A beehive.  Said to cure any illness</description>
+	</item>
+	<item>
+		<hexValue>8A</hexValue>
+		<name>Big Trophy</name>
+		<description>A stuffed behemoth</description>
+	</item>
+	<item>
+		<hexValue>8B</hexValue>
+		<name>Tome of Myths</name>
+		<description>A record of the myths of the gods</description>
+	</item>
+	<item>
+		<hexValue>8C</hexValue>
+		<name>Dragon's Jewel</name>
+		<description>A rare gem found only in the nests of dragons</description>
+	</item>
+	<item>
+		<hexValue>8D</hexValue>
+		<name>Gem of Doun</name>
+		<description>A small ruby. One of the jewels of Fellana</description>
+	</item>
+	<item>
+		<hexValue>8E</hexValue>
+		<name>Tablet of Yaru</name>
+		<description>A tablet with the teachings of the Monk Yaru</description>
+	</item>
+	<item>
+		<hexValue>8F</hexValue>
+		<name>Book of the Dead</name>
+		<description>A Book with secrets of immortality</description>
+	</item>
+	<item>
+		<hexValue>90</hexValue>
+		<name>Gem of Truth</name>
+		<description>One of the jewels of Fellana</description>
+	</item>
+	<item>
+		<hexValue>91</hexValue>
+		<name>Sable Fur</name>
+		<description>A sable fur known as the Living Night</description>
+	</item>
+	<item>
+		<hexValue>92</hexValue>
+		<name>Relief Medallion</name>
+		<description>Medal of the general from the Ancient Kingdoms</description>
+	</item>
+	<item>
+		<hexValue>93</hexValue>
+		<name>Ivory Goddess</name>
+		<description>Masterpiece of the master carver Balkas</description>
+	</item>
+	<item>
+		<hexValue>94</hexValue>
+		<name>Box of Salvation</name>
+		<description>A box which can never be opened or broken</description>
+	</item>
+	<item>
+		<hexValue>95</hexValue>
+		<name>Solom's Chest</name>
+		<description>A jewel-box made by the Wizard Solom</description>
+	</item>
+	<item>
+		<hexValue>96</hexValue>
+		<name>Necronomicon</name>
+		<description>The greatest tome of evil</description>
+	</item>
+	<item>
+		<hexValue>97</hexValue>
+		<name>Stone of Dragos</name>
+		<description>With stone BeastMaster can talk to dragons</description>
+	</item>
+	<item>
+		<hexValue>98</hexValue>
+		<name>Undead Staff</name>
+		<description>By using this on a Mage he can speak to the dead</description>
+	</item>
+	<item>
+		<hexValue>99</hexValue>
+		<name>Undead Ring</name>
+		<description>Using this on a sorcerer he joins the undead</description>
+	</item>
+	<item>
+		<hexValue>9A</hexValue>
+		<name>Blood Kiss</name>
+		<description>A symbol of the undead.  If you use it on a Knight?</description>
+	</item>
+	<item>
+		<hexValue>9B</hexValue>
+		<name>Royal Crown</name>
+		<description>Crown of royalty used on an Amazonian?</description>
+	</item>
+	<item>
+		<hexValue>9C</hexValue>
+		<name>Rotten Pumpkin</name>
+		<description>A rotten pumpkin? Try it on a Pumpkin Head?</description>
+	</item>
+	<item>
+		<hexValue>9D</hexValue>
+		<name>Promotion</name>
+		<description>Raises a character one level</description>
+	</item>
+	<item>
+		<hexValue>9E</hexValue>
+		<name>Vitality Potion</name>
+		<description>Raises a character's max HP</description>
+	</item>
+	<item>
+		<hexValue>9F</hexValue>
+		<name>Strength Potion</name>
+		<description>Raises a character's STR</description>
+	</item>
+	<item>
+		<hexValue>A0</hexValue>
+		<name>Speed Potion</name>
+		<description>Raises a character's AGI</description>
+	</item>
+	<item>
+		<hexValue>A1</hexValue>
+		<name>Tome of Learning</name>
+		<description>Raises a character's INT</description>
+	</item>
+	<item>
+		<hexValue>A2</hexValue>
+		<name>Heart of Leo</name>
+		<description>Raises a character's CHA</description>
+	</item>
+	<item>
+		<hexValue>A3</hexValue>
+		<name>Soul Mirror</name>
+		<description>Raises a character's ALI</description>
+	</item>
+	<item>
+		<hexValue>A4</hexValue>
+		<name>Lucky Charm</name>
+		<description>Raises a characters LUK</description>
+	</item>
+	<item>
+		<hexValue>A5</hexValue>
+		<name>Cure Potion</name>
+		<description>Heals one character 50 HP</description>
+	</item>
+	<item>
+		<hexValue>A6</hexValue>
+		<name>Cure Stone</name>
+		<description>Heals one character 100 HP</description>
+	</item>
+	<item>
+		<hexValue>A7</hexValue>
+		<name>Ethereal Flute</name>
+		<description>Restores a dead character</description>
+	</item>
+	<item>
+		<hexValue>A8</hexValue>
+		<name>Summoning Chime</name>
+		<description>Calls forth a Neutral Unit</description>
+	</item>
+	<item>
+		<hexValue>A9</hexValue>
+		<name>Cure Ankh</name>
+		<description>Cures 100 HPs for each character in a Unit</description>
+	</item>
+	<item>
+		<hexValue>AA</hexValue>
+		<name>Egg of Wonder</name>
+		<description>Find out what grows inside by cracking it open</description>
+	</item>
+	<item>
+		<hexValue>AB</hexValue>
+		<name>Full Moon Stone</name>
+		<description>Summons forth a weretiger</description>
+	</item>
+	<item>
+		<hexValue>AC</hexValue>
+		<name>Joker Tarot</name>
+		<description>Will be randomly inscribed upon use</description>
+	</item>
+	<item>
+		<hexValue>AD</hexValue>
+		<name>Dinner Bell</name>
+		<description>Sends one unit back to the Rebel Base</description>
+	</item>
+	<item>
+		<hexValue>AE</hexValue>
+		<name>Dowsing Rod</name>
+		<description>Shows the location of one buried treasure</description>
+	</item>
+	<item>
+		<hexValue>AF</hexValue>
+		<name>Trade Ticket</name>
+		<description>Summons a mysterious merchant</description>
+	</item>
+	<item>
+		<hexValue>B0</hexValue>
+		<name>Mass Summons</name>
+		<description>Sends friendly units to place of Opinion Leader</description>
+	</item>
+	<item>
+		<hexValue>B1</hexValue>
+		<name>Persuasion Spell</name>
+		<description>Wins one enemy unit to side of Rebels</description>
+	</item>
+	<item>
+		<hexValue>B2</hexValue>
+		<name>7 League Boots</name>
+		<description>Will warp a Unit to any freed town or temple</description>
+	</item>
+	<item>
+		<hexValue>B3</hexValue>
+		<name>Termites</name>
+		<description>A bag of hungry termites</description>
+	</item>
+	<item>
+		<hexValue>B4</hexValue>
+		<name>Moonbeam</name>
+		<description>Changes day into night</description>
+	</item>
+	<item>
+		<hexValue>B5</hexValue>
+		<name>Ray of Sunshine</name>
+		<description>Changes night into day</description>
+	</item>
+	<item>
+		<hexValue>B6</hexValue>
+		<name>Crystal Ball</name>
+		<description>Shows the location of a hidden city or temple</description>
+	</item>
+	<item>
+		<hexValue>B7</hexValue>
+		<name>Glass Pumpkin</name>
+		<description>Allows one to summon Pumpkin Heads</description>
+	</item>
+	<item>
+		<hexValue>B8</hexValue>
+		<name>Star of Heroes</name>
+		<description>An emblem which may only be obtained by a Hero</description>
+	</item>
+	<item>
+		<hexValue>B9</hexValue>
+		<name>Bell of Light</name>
+		<description>Will bring life to cold stone</description>
+	</item>
+	<item>
+		<hexValue>BA</hexValue>
+		<name>Grail</name>
+		<description>One of the 3 Mystic Treasures</description>
+	</item>
+	<item>
+		<hexValue>BB</hexValue>
+		<name>Mystic Armband</name>
+		<description>One of the 3 Mystic Treasures</description>
+	</item>
+	<item>
+		<hexValue>BC</hexValue>
+		<name>Garnet</name>
+		<description>The 1st Stone of Zodiac. Signifies Rulership</description>
+	</item>
+	<item>
+		<hexValue>BD</hexValue>
+		<name>Amethyst</name>
+		<description>The 2nd Stone of Zodiac. Signifies Reverence</description>
+	</item>
+	<item>
+		<hexValue>BE</hexValue>
+		<name>Aquamarine</name>
+		<description>The 3rd Stone of Zodiac. Signifies Peace</description>
+	</item>
+	<item>
+		<hexValue>BF</hexValue>
+		<name>Diamond</name>
+		<description>The 4th Stone of Zodiac. Signifies Wisdom</description>
+	</item>
+	<item>
+		<hexValue>C0</hexValue>
+		<name>Emerald</name>
+		<description>The 5th Stone of Zodiac. Signifies Leadership</description>
+	</item>
+	<item>
+		<hexValue>C1</hexValue>
+		<name>Pearl</name>
+		<description>The 6th Stone of Zodiac. Signifies Constancy</description>
+	</item>
+	<item>
+		<hexValue>C2</hexValue>
+		<name>Ruby</name>
+		<description>The 7th Stone of Zodiac. Signifies Honour</description>
+	</item>
+	<item>
+		<hexValue>C3</hexValue>
+		<name>Peridot</name>
+		<description>The 8th Stone of Zodiac. Signifies Knowledge</description>
+	</item>
+	<item>
+		<hexValue>C4</hexValue>
+		<name>Sapphire</name>
+		<description>The 9th Stone of Zodiac. Signifies Victory</description>
+	</item>
+	<item>
+		<hexValue>C5</hexValue>
+		<name>Opal</name>
+		<description>The 10th Stone of Zodiac. Signifies Compassion</description>
+	</item>
+	<item>
+		<hexValue>C6</hexValue>
+		<name>Topaz</name>
+		<description>The 11th Stone of Zodiac. Signifies Prosperity</description>
+	</item>
+	<item>
+		<hexValue>C7</hexValue>
+		<name>Turquoise</name>
+		<description>The 12th Stone of Zodiac. Signifies Royalty</description>
+	</item>
+	<item>
+		<hexValue>C8</hexValue>
+		<name>Gem of All</name>
+		<description>A symbol of Betrayal. Has great destructive powers</description>
+	</item>
+</items>
